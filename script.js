@@ -1,0 +1,1 @@
+document.getElementById('godina').textContent = new Date().getFullYear();
